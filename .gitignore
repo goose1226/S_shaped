@@ -1,0 +1,18 @@
+# 忽略 Python 的字節碼檔案
+__pycache__/
+*.pyc
+*.pyo
+
+# 忽略虛擬環境資料夾
+venv/
+env/
+
+# 忽略某些 IDE 配置檔案
+.vscode/
+.idea/
+
+# 忽略測試報告或日志
+*.log
+
+# 忽略特定的配置檔案
+config.json
